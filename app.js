@@ -38,7 +38,7 @@ const allowedOrigins = isDev
       "http://localhost:5000",
     ]
   : [
-      process.env.FRONTEND_URL || "https://glittering-lollipop-9abd21.netlify.app/",
+      process.env.FRONTEND_URL || "https://glittering-lollipop-9abd21.netlify.app",
       process.env.BACKEND_URL
     ].filter(Boolean);
 
