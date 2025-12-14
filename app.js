@@ -23,7 +23,7 @@ const app = express();
 // =====================================================
 // CONSTANTS — PRODUCTION ONLY
 // =====================================================
-const FRONTEND_ORIGIN = "https://relaxed-peony-867186.netlify.app";
+const FRONTEND_ORIGIN = "https://dicobuddy.netlify.app/";
 const BACKEND_URL = "https://dicobuddy-deploy-production.up.railway.app";
 
 // =====================================================
