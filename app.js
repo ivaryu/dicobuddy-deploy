@@ -38,7 +38,7 @@ const allowedOrigins = isDev
       "http://localhost:5000",
     ]
   : [
-      "https://glittering-lollipop-9abd21.netlify.app",  // ✅ TANPA trailing slash
+      "https://relaxed-peony-867186.netlify.app/",  // ✅ TANPA trailing slash
       "https://dicobuddy-deploy-production.up.railway.app"
     ];
 
