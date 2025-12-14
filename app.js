@@ -38,34 +38,46 @@ const allowedOrigins = isDev
       "http://localhost:5000",
     ]
   : [
-      process.env.FRONTEND_URL || "https://relaxed-peony-867186.netlify.app",
-      process.env.BACKEND_URL
-    ].filter(Boolean);
+      "https://glittering-lollipop-9abd21.netlify.app",  // ✅ TANPA trailing slash
+      "https://dicobuddy-deploy-production.up.railway.app"
+    ];
+
+// Debug log untuk cek origin
+app.use((req, res, next) => {
+  console.log('📨 Incoming request from origin:', req.headers.origin);
+  console.log('📌 Request path:', req.path);
+  next();
+});
 
 app.use(cors({
   origin: function(origin, callback) {
     // Allow requests with no origin (mobile apps, curl, postman)
     if (!origin) return callback(null, true);
     
-    if (allowedOrigins.indexOf(origin) !== -1) {
+    // Normalize: remove trailing slash
+    const normalizedOrigin = origin.replace(/\/$/, '');
+    const normalizedAllowed = allowedOrigins.map(o => o.replace(/\/$/, ''));
+    
+    if (normalizedAllowed.includes(normalizedOrigin)) {
+      console.log('✅ CORS allowed for:', origin);
       callback(null, true);
     } else {
-      console.warn(`CORS blocked origin: ${origin}`);
+      console.warn('❌ CORS blocked origin:', origin);
+      console.warn('📋 Allowed origins:', normalizedAllowed);
       callback(new Error('Not allowed by CORS'));
     }
   },
-  credentials: true
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
 // =========================
 //    SERVE WIDGET STATIC
 // =========================
-// Backend folder structure: backend/app.js
-// Widget folder: src/widget (at root level, same as backend/)
 const widgetPath = path.join(__dirname, "..", "src", "widget");
 console.log("Serving widget from:", widgetPath);
 
-// Inject environment variables into widget.js dynamically
 app.get("/widget/widget.js", (req, res) => {
   const fs = require("fs");
   const widgetJsPath = path.join(widgetPath, "widget.js");
@@ -77,7 +89,6 @@ app.get("/widget/widget.js", (req, res) => {
       return res.status(500).send(`// Widget not found at: ${widgetJsPath}`);
     }
     
-    // Inject config at the top of the script
     const injectedScript = `// Auto-injected configuration
 window.__WIDGET_CONFIG__ = {
   BACKEND_URL: "${BACKEND_URL}",
@@ -91,7 +102,6 @@ ${data}`;
   });
 });
 
-// Serve other widget files statically (CSS, iframe.html, etc)
 app.use("/widget", express.static(widgetPath));
 
 // =========================
@@ -109,10 +119,9 @@ app.use(session({
   saveUninitialized: false,
   cookie: {
     httpOnly: true,     
-    secure: false,  // true in production (HTTPS)
-    sameSite: "lax", // "none" for cross-origin in production
-    maxAge: 1000 * 60 * 60 * 24, // 24 jam
-    // IMPORTANT: Set path to root so cookie accessible by all routes
+    secure: !isDev,  // true in production (HTTPS)
+    sameSite: isDev ? "lax" : "none", // "none" for cross-origin in production
+    maxAge: 1000 * 60 * 60 * 24,
     path: '/'
   }
 }));
@@ -120,7 +129,6 @@ app.use(session({
 // =========================
 //          ROUTES
 // =========================
-// Serve SPA static files from public/ folder
 const publicPath = path.join(__dirname, "..", "src", "public");
 app.use(express.static(publicPath));
 
@@ -140,28 +148,33 @@ app.use("/api/profile", profileRoutes);
 app.use("/api/quiz", quizRoutes);
 app.use("/api", courseRoutes);
 
-// Health check (before SPA fallback)
+// Health check
 app.get("/api/health", (req, res) => {
   res.json({ 
     message: "API is running",
     environment: isDev ? "development" : "production",
-    widgetUrl: `${BACKEND_URL}/widget/widget.js`
+    widgetUrl: `${BACKEND_URL}/widget/widget.js`,
+    corsOrigins: allowedOrigins
   });
 });
 
-// SPA fallback - semua route non-API redirect ke index.html
+// SPA fallback
 app.use((req, res, next) => {
   if (req.path.startsWith('/api/') || req.path.startsWith('/widget/')) {
     return next();
   }
   res.sendFile(path.join(__dirname, '..', 'src', 'public', 'index.html'));
 });
+
 // =========================
 //   GLOBAL ERROR HANDLER
 // =========================
 app.use((err, req, res, next) => {
-  console.error("Server Error:", err);
-  res.status(500).json({ error: "Something went wrong" });
+  console.error("❌ Server Error:", err);
+  res.status(500).json({ 
+    error: "Something went wrong",
+    message: err.message 
+  });
 });
 
 // =========================
@@ -173,4 +186,5 @@ app.listen(port, () => {
   console.log(`📦 Environment: ${isDev ? "development" : "production"}`);
   console.log(`🔗 Widget URL: ${BACKEND_URL}/widget/widget.js`);
   console.log(`🌐 Frontend URL: ${FRONTEND_URL}`);
+  console.log(`✅ CORS Origins:`, allowedOrigins);
 });
