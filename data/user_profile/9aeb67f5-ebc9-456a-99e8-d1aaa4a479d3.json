@@ -1,0 +1,41 @@
+{
+  "user_id": "9aeb67f5-ebc9-456a-99e8-d1aaa4a479d3",
+  "platform_data": {
+    "name": "Eko Pratama",
+    "email": "eko.pratama104@example.com",
+    "active_courses": [
+      "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
+    ],
+    "active_tutorials": 73,
+    "completed_tutorials": 48,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.439Z",
+  "updated_at": 1765460896439,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896439,
+    "last_updated": 1765460896439,
+    "skills_status": {},
+    "subskills": []
+  }
+}

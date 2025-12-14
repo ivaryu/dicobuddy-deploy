@@ -1,0 +1,41 @@
+{
+  "user_id": "9e7e1f56-0a45-4b9f-93a1-2b631753b65b",
+  "platform_data": {
+    "name": "Irfan Pratama",
+    "email": "irfan.pratama263@example.com",
+    "active_courses": [
+      "Tes Seleksi Laskar AI"
+    ],
+    "active_tutorials": 5,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Tes Seleksi Laskar AI": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Tes Seleksi Laskar AI",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.559Z",
+  "updated_at": 1765460896559,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896559,
+    "last_updated": 1765460896559,
+    "skills_status": {},
+    "subskills": []
+  }
+}

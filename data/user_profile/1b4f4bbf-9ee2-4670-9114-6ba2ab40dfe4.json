@@ -1,0 +1,41 @@
+{
+  "user_id": "1b4f4bbf-9ee2-4670-9114-6ba2ab40dfe4",
+  "platform_data": {
+    "name": "Irfan Kusuma",
+    "email": "irfan.kusuma186@example.com",
+    "active_courses": [
+      "Tes Seleksi Offline Training - AI Connect Academy"
+    ],
+    "active_tutorials": 3,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Tes Seleksi Offline Training - AI Connect Academy": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Tes Seleksi Offline Training - AI Connect Academy",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.500Z",
+  "updated_at": 1765460896500,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896500,
+    "last_updated": 1765460896500,
+    "skills_status": {},
+    "subskills": []
+  }
+}

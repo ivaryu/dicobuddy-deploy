@@ -1,0 +1,41 @@
+{
+  "user_id": "3c5c420d-cb1e-4615-b07f-f0b65465dd57",
+  "platform_data": {
+    "name": "Bima Wibowo",
+    "email": "bima.wibowo68@example.com",
+    "active_courses": [
+      "Memulai Pemrograman Dengan Swift"
+    ],
+    "active_tutorials": 95,
+    "completed_tutorials": 5,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Memulai Pemrograman Dengan Swift": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Memulai Pemrograman Dengan Swift",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.408Z",
+  "updated_at": 1765460896408,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896408,
+    "last_updated": 1765460896408,
+    "skills_status": {},
+    "subskills": []
+  }
+}

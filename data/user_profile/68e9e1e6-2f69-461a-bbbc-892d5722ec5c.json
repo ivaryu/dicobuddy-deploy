@@ -1,0 +1,41 @@
+{
+  "user_id": "68e9e1e6-2f69-461a-bbbc-892d5722ec5c",
+  "platform_data": {
+    "name": "Citra Wijaya",
+    "email": "citra.wijaya33@example.com",
+    "active_courses": [
+      "Memulai Pemrograman Dengan Java"
+    ],
+    "active_tutorials": 42,
+    "completed_tutorials": 15,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Memulai Pemrograman Dengan Java": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Memulai Pemrograman Dengan Java",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.375Z",
+  "updated_at": 1765460896375,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896375,
+    "last_updated": 1765460896375,
+    "skills_status": {},
+    "subskills": []
+  }
+}

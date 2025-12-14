@@ -1,0 +1,41 @@
+{
+  "user_id": "e4e7b29d-3962-47b5-ad23-4559ed2a4d6a",
+  "platform_data": {
+    "name": "Gilang Utama",
+    "email": "gilang.utama41@example.com",
+    "active_courses": [
+      "Menjadi Azure Cloud Developer"
+    ],
+    "active_tutorials": 85,
+    "completed_tutorials": 78,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Menjadi Azure Cloud Developer": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Menjadi Azure Cloud Developer",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.382Z",
+  "updated_at": 1765460896382,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896382,
+    "last_updated": 1765460896382,
+    "skills_status": {},
+    "subskills": []
+  }
+}

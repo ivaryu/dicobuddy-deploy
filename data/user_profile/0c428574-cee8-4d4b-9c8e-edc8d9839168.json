@@ -1,0 +1,41 @@
+{
+  "user_id": "0c428574-cee8-4d4b-9c8e-edc8d9839168",
+  "platform_data": {
+    "name": "Hana Pratama",
+    "email": "hana.pratama45@example.com",
+    "active_courses": [
+      "Memulai Pemrograman dengan Python"
+    ],
+    "active_tutorials": 91,
+    "completed_tutorials": 91,
+    "is_graduated": 1,
+    "exam_score": "85",
+    "submission_rating": "",
+    "course_progress": {
+      "Memulai Pemrograman dengan Python": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Memulai Pemrograman dengan Python",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.385Z",
+  "updated_at": "2025-12-11T18:20:39.579Z",
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896385,
+    "last_updated": 1765460896385,
+    "skills_status": {},
+    "subskills": []
+  }
+}

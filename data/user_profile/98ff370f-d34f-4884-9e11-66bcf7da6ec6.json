@@ -1,0 +1,41 @@
+{
+  "user_id": "98ff370f-d34f-4884-9e11-66bcf7da6ec6",
+  "platform_data": {
+    "name": "Gilang Kusuma",
+    "email": "gilang.kusuma256@example.com",
+    "active_courses": [
+      "Pre-Test Dicoding Bootcamp"
+    ],
+    "active_tutorials": 4,
+    "completed_tutorials": 4,
+    "is_graduated": 0,
+    "exam_score": "22",
+    "submission_rating": "",
+    "course_progress": {
+      "Pre-Test Dicoding Bootcamp": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Pre-Test Dicoding Bootcamp",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.554Z",
+  "updated_at": 1765460896554,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896554,
+    "last_updated": 1765460896554,
+    "skills_status": {},
+    "subskills": []
+  }
+}

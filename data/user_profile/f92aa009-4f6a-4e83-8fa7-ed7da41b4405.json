@@ -1,0 +1,41 @@
+{
+  "user_id": "f92aa009-4f6a-4e83-8fa7-ed7da41b4405",
+  "platform_data": {
+    "name": "Lestari Prasetyo",
+    "email": "lestari.prasetyo231@example.com",
+    "active_courses": [
+      "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)"
+    ],
+    "active_tutorials": 8,
+    "completed_tutorials": 2,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.537Z",
+  "updated_at": 1765460896537,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896537,
+    "last_updated": 1765460896537,
+    "skills_status": {},
+    "subskills": []
+  }
+}

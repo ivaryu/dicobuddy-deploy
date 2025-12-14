@@ -1,0 +1,41 @@
+{
+  "user_id": "d58414c8-ebc5-4430-b19b-1cc11ec98aad",
+  "platform_data": {
+    "name": "Dina Kusuma",
+    "email": "dina.kusuma37@example.com",
+    "active_courses": [
+      "Memulai Pemrograman dengan Kotlin"
+    ],
+    "active_tutorials": 97,
+    "completed_tutorials": 27,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Memulai Pemrograman dengan Kotlin": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Memulai Pemrograman dengan Kotlin",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.379Z",
+  "updated_at": 1765460896379,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896379,
+    "last_updated": 1765460896379,
+    "skills_status": {},
+    "subskills": []
+  }
+}

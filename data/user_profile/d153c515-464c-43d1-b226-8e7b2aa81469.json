@@ -1,0 +1,41 @@
+{
+  "user_id": "d153c515-464c-43d1-b226-8e7b2aa81469",
+  "platform_data": {
+    "name": "Citra Agustina",
+    "email": "citra.agustina258@example.com",
+    "active_courses": [
+      "Belajar Dasar AI"
+    ],
+    "active_tutorials": 39,
+    "completed_tutorials": 8,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Dasar AI": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Dasar AI",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.555Z",
+  "updated_at": 1765460896555,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896555,
+    "last_updated": 1765460896555,
+    "skills_status": {},
+    "subskills": []
+  }
+}

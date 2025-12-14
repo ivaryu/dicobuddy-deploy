@@ -1,0 +1,41 @@
+{
+  "user_id": "7a705d13-32f1-4fb1-9a60-515b12df5cc3",
+  "platform_data": {
+    "name": "Maya Prasetyo",
+    "email": "maya.prasetyo156@example.com",
+    "active_courses": [
+      "Meniti Karier sebagai Software Developer"
+    ],
+    "active_tutorials": 53,
+    "completed_tutorials": 53,
+    "is_graduated": 1,
+    "exam_score": "93",
+    "submission_rating": "",
+    "course_progress": {
+      "Meniti Karier sebagai Software Developer": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Meniti Karier sebagai Software Developer",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.477Z",
+  "updated_at": 1765460896477,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896477,
+    "last_updated": 1765460896477,
+    "skills_status": {},
+    "subskills": []
+  }
+}

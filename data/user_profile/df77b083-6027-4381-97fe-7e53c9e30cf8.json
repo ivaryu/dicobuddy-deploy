@@ -1,0 +1,41 @@
+{
+  "user_id": "df77b083-6027-4381-97fe-7e53c9e30cf8",
+  "platform_data": {
+    "name": "Irfan Siregar",
+    "email": "irfan.siregar210@example.com",
+    "active_courses": [
+      "Belajar Membuat Aplikasi Web dengan React"
+    ],
+    "active_tutorials": 56,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Membuat Aplikasi Web dengan React": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Membuat Aplikasi Web dengan React",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.521Z",
+  "updated_at": 1765460896521,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896521,
+    "last_updated": 1765460896521,
+    "skills_status": {},
+    "subskills": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "user_id": "499e14a0-ccc2-4f33-ac0f-1fc613679d2c",
+  "platform_data": {
+    "name": "Rafi Wibowo",
+    "email": "rafi.wibowo151@example.com",
+    "active_courses": [
+      "Menjadi Back-End Developer Expert dengan JavaScript"
+    ],
+    "active_tutorials": 116,
+    "completed_tutorials": 29,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Menjadi Back-End Developer Expert dengan JavaScript": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Menjadi Back-End Developer Expert dengan JavaScript",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.473Z",
+  "updated_at": 1765460896473,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896473,
+    "last_updated": 1765460896473,
+    "skills_status": {},
+    "subskills": []
+  }
+}

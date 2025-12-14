@@ -1,0 +1,425 @@
+{
+  "user_id": "b64852a0-24a2-4731-830b-9314db2b13ca",
+  "platform_data": {
+    "name": "Dina Wijaya",
+    "email": "dina.wijaya1@example.com",
+    "active_courses": [
+      "Belajar Membangun Aplikasi Android Native Bagian I"
+    ],
+    "active_tutorials": 4,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Membangun Aplikasi Android Native Bagian I": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Membangun Aplikasi Android Native Bagian I",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": [
+      {
+        "query": "hii",
+        "response": "Halo Dina! Senang bertemu denganmu!",
+        "timestamp": "2023-12-11T08:00:00.000Z",
+        "intent": "greeting"
+      }
+    ]
+  },
+  "created_at": "2025-12-11T13:48:16.342Z",
+  "updated_at": "2025-12-13T08:42:38.321Z",
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": "Android Developer",
+    "last_updated": 1765585555002,
+    "created_at": 1765454050298,
+    "subskills": [
+      {
+        "id": "kotlin_basics_android",
+        "name": "Kotlin Fundamentals",
+        "estimated_hours": 50,
+        "priority": 1,
+        "prerequisites": [],
+        "next_steps": [
+          "android_sdk_android"
+        ],
+        "keywords": [
+          "kotlin",
+          "null-safety",
+          "coroutines"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            11
+          ],
+          "intermediate": [
+            7
+          ],
+          "advanced": [
+            12
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "Syntax Kotlin dasar",
+            "indicators": [
+              "function/class"
+            ]
+          },
+          "intermediate": {
+            "description": "Coroutine & stdlib",
+            "indicators": [
+              "flows"
+            ]
+          },
+          "advanced": {
+            "description": "Pattern & interop",
+            "indicators": [
+              "delegation"
+            ]
+          }
+        }
+      },
+      {
+        "id": "android_sdk_android",
+        "name": "Android SDK & Architecture",
+        "estimated_hours": 80,
+        "priority": 2,
+        "prerequisites": [
+          "kotlin_basics_android"
+        ],
+        "next_steps": [
+          "ui_material_android"
+        ],
+        "keywords": [
+          "android",
+          "jetpack",
+          "lifecycle"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            8
+          ],
+          "intermediate": [
+            7
+          ],
+          "advanced": [
+            9
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "Activity & layout basic",
+            "indicators": [
+              "activity lifecycle"
+            ]
+          },
+          "intermediate": {
+            "description": "jetpack components",
+            "indicators": [
+              "viewmodel",
+              "room"
+            ]
+          },
+          "advanced": {
+            "description": "modular apps",
+            "indicators": [
+              "performance tuning"
+            ]
+          }
+        }
+      },
+      {
+        "id": "ui_material_android",
+        "name": "UI & Material Design",
+        "estimated_hours": 40,
+        "priority": 2,
+        "prerequisites": [
+          "android_sdk_android"
+        ],
+        "next_steps": [
+          "data_storage_android"
+        ],
+        "keywords": [
+          "material",
+          "compose",
+          "ui"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            8
+          ],
+          "intermediate": [
+            7
+          ],
+          "advanced": [
+            9
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "Material basics",
+            "indicators": [
+              "components"
+            ]
+          },
+          "intermediate": {
+            "description": "Compose & animation",
+            "indicators": [
+              "theming"
+            ]
+          },
+          "advanced": {
+            "description": "custom components",
+            "indicators": [
+              "complex animations"
+            ]
+          }
+        }
+      },
+      {
+        "id": "data_storage_android",
+        "name": "Data Storage & Networking",
+        "estimated_hours": 50,
+        "priority": 3,
+        "prerequisites": [
+          "android_sdk_android"
+        ],
+        "next_steps": [
+          "testing_android"
+        ],
+        "keywords": [
+          "room",
+          "retrofit",
+          "okhttp"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            8
+          ],
+          "intermediate": [
+            9
+          ],
+          "advanced": [
+            7
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "SharedPrefs & retrofit",
+            "indicators": [
+              "simple REST"
+            ]
+          },
+          "intermediate": {
+            "description": "Room & caching",
+            "indicators": [
+              "offline sync"
+            ]
+          },
+          "advanced": {
+            "description": "realtime & migrations",
+            "indicators": [
+              "data migration"
+            ]
+          }
+        }
+      },
+      {
+        "id": "testing_android",
+        "name": "Testing & CI for Android",
+        "estimated_hours": 35,
+        "priority": 3,
+        "prerequisites": [
+          "android_sdk_android"
+        ],
+        "next_steps": [
+          "deployment_playstore_android"
+        ],
+        "keywords": [
+          "espresso",
+          "ci",
+          "unit test"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            8
+          ],
+          "intermediate": [
+            10
+          ],
+          "advanced": [
+            12
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "unit test basics",
+            "indicators": [
+              "viewmodel tests"
+            ]
+          },
+          "intermediate": {
+            "description": "ci pipelines",
+            "indicators": [
+              "github actions"
+            ]
+          },
+          "advanced": {
+            "description": "performance testing",
+            "indicators": [
+              "profiling"
+            ]
+          }
+        }
+      },
+      {
+        "id": "deployment_playstore_android",
+        "name": "Deployment & Release Management",
+        "estimated_hours": 25,
+        "priority": 4,
+        "prerequisites": [
+          "testing_android"
+        ],
+        "next_steps": [],
+        "keywords": [
+          "playstore",
+          "signing",
+          "release"
+        ],
+        "mapped_courses": {
+          "beginner": [
+            8
+          ],
+          "intermediate": [
+            12
+          ],
+          "advanced": [
+            7
+          ]
+        },
+        "levels": {
+          "beginner": {
+            "description": "release basics",
+            "indicators": [
+              "signing"
+            ]
+          },
+          "intermediate": {
+            "description": "staged rollout",
+            "indicators": [
+              "A/B testing"
+            ]
+          },
+          "advanced": {
+            "description": "enterprise release",
+            "indicators": [
+              "multi-store"
+            ]
+          }
+        }
+      }
+    ],
+    "skills_status": {
+      "kotlin_basics_android": {
+        "name": "Kotlin Fundamentals",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          7,
+          11,
+          12
+        ]
+      },
+      "android_sdk_android": {
+        "name": "Android SDK & Architecture",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "ui_material_android": {
+        "name": "UI & Material Design",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "data_storage_android": {
+        "name": "Data Storage & Networking",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "testing_android": {
+        "name": "Testing & CI for Android",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          8,
+          10,
+          12
+        ]
+      },
+      "deployment_playstore_android": {
+        "name": "Deployment & Release Management",
+        "level": "not_started",
+        "overall_percent": 0,
+        "per_level_percent": {
+          "beginner": null,
+          "intermediate": null,
+          "advanced": null
+        },
+        "source_course_ids": [
+          7,
+          8,
+          12
+        ]
+      }
+    }
+  }
+}

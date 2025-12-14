@@ -1,0 +1,41 @@
+{
+  "user_id": "eb181f9a-3b8d-459a-ab10-0281ab47e874",
+  "platform_data": {
+    "name": "Hana Utama",
+    "email": "hana.utama234@example.com",
+    "active_courses": [
+      "Tes Seleksi Asah 2025 – FEBE AI dan REBE AI"
+    ],
+    "active_tutorials": 5,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Tes Seleksi Asah 2025 – FEBE AI dan REBE AI": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Tes Seleksi Asah 2025 – FEBE AI dan REBE AI",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.538Z",
+  "updated_at": 1765460896538,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896538,
+    "last_updated": 1765460896538,
+    "skills_status": {},
+    "subskills": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "user_id": "1d088361-a3ed-4fb7-a8b9-ffb1c7cc6a3f",
+  "platform_data": {
+    "name": "Citra Wibowo",
+    "email": "citra.wibowo173@example.com",
+    "active_courses": [
+      "Belajar Membuat Front-End Web untuk Pemula"
+    ],
+    "active_tutorials": 69,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Membuat Front-End Web untuk Pemula": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Membuat Front-End Web untuk Pemula",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.490Z",
+  "updated_at": 1765460896490,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896490,
+    "last_updated": 1765460896490,
+    "skills_status": {},
+    "subskills": []
+  }
+}

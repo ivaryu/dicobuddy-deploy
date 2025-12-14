@@ -1,0 +1,41 @@
+{
+  "user_id": "f6014f04-af52-4a40-91dc-8f6da262f5be",
+  "platform_data": {
+    "name": "Eko Utama",
+    "email": "eko.utama219@example.com",
+    "active_courses": [
+      "BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar"
+    ],
+    "active_tutorials": 2,
+    "completed_tutorials": 2,
+    "is_graduated": 0,
+    "exam_score": "92",
+    "submission_rating": "",
+    "course_progress": {
+      "BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.528Z",
+  "updated_at": 1765460896528,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896528,
+    "last_updated": 1765460896528,
+    "skills_status": {},
+    "subskills": []
+  }
+}

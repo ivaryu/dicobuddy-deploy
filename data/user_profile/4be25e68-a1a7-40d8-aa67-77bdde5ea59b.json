@@ -1,0 +1,41 @@
+{
+  "user_id": "4be25e68-a1a7-40d8-aa67-77bdde5ea59b",
+  "platform_data": {
+    "name": "Gilang Pratama",
+    "email": "gilang.pratama89@example.com",
+    "active_courses": [
+      "Belajar Machine Learning untuk Pemula"
+    ],
+    "active_tutorials": 117,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Machine Learning untuk Pemula": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Machine Learning untuk Pemula",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.427Z",
+  "updated_at": 1765460896427,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896427,
+    "last_updated": 1765460896427,
+    "skills_status": {},
+    "subskills": []
+  }
+}

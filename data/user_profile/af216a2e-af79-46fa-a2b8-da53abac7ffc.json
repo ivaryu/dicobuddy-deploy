@@ -1,0 +1,41 @@
+{
+  "user_id": "af216a2e-af79-46fa-a2b8-da53abac7ffc",
+  "platform_data": {
+    "name": "Fira Agustina",
+    "email": "fira.agustina240@example.com",
+    "active_courses": [
+      "Bangkit 2024 ILT Quiz - Soft Skill"
+    ],
+    "active_tutorials": 6,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Bangkit 2024 ILT Quiz - Soft Skill": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Bangkit 2024 ILT Quiz - Soft Skill",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.543Z",
+  "updated_at": 1765460896543,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896543,
+    "last_updated": 1765460896543,
+    "skills_status": {},
+    "subskills": []
+  }
+}

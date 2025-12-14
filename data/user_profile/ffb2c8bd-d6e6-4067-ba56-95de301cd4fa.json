@@ -1,0 +1,41 @@
+{
+  "user_id": "ffb2c8bd-d6e6-4067-ba56-95de301cd4fa",
+  "platform_data": {
+    "name": "Ari Santoso",
+    "email": "ari.santoso223@example.com",
+    "active_courses": [
+      "BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar"
+    ],
+    "active_tutorials": 2,
+    "completed_tutorials": 1,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.531Z",
+  "updated_at": 1765460896531,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896531,
+    "last_updated": 1765460896531,
+    "skills_status": {},
+    "subskills": []
+  }
+}

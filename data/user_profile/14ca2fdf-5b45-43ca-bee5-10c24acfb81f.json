@@ -1,0 +1,41 @@
+{
+  "user_id": "14ca2fdf-5b45-43ca-bee5-10c24acfb81f",
+  "platform_data": {
+    "name": "Nando Kusuma",
+    "email": "nando.kusuma136@example.com",
+    "active_courses": [
+      "Belajar Back-End Pemula dengan JavaScript"
+    ],
+    "active_tutorials": 127,
+    "completed_tutorials": 100,
+    "is_graduated": 1,
+    "exam_score": "",
+    "submission_rating": "5",
+    "course_progress": {
+      "Belajar Back-End Pemula dengan JavaScript": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Back-End Pemula dengan JavaScript",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.464Z",
+  "updated_at": 1765460896464,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896464,
+    "last_updated": 1765460896464,
+    "skills_status": {},
+    "subskills": []
+  }
+}

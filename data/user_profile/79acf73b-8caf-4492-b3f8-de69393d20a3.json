@@ -1,0 +1,41 @@
+{
+  "user_id": "79acf73b-8caf-4492-b3f8-de69393d20a3",
+  "platform_data": {
+    "name": "Rafi Wijaya",
+    "email": "rafi.wijaya167@example.com",
+    "active_courses": [
+      "Belajar Membuat Augmented Reality dengan Lens Studio"
+    ],
+    "active_tutorials": 56,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Membuat Augmented Reality dengan Lens Studio": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Membuat Augmented Reality dengan Lens Studio",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.486Z",
+  "updated_at": 1765460896486,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896486,
+    "last_updated": 1765460896486,
+    "skills_status": {},
+    "subskills": []
+  }
+}

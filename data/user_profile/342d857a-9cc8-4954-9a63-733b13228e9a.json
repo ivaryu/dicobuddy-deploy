@@ -1,0 +1,41 @@
+{
+  "user_id": "342d857a-9cc8-4954-9a63-733b13228e9a",
+  "platform_data": {
+    "name": "Tono Kusuma",
+    "email": "tono.kusuma108@example.com",
+    "active_courses": [
+      "Bangkit Application Screening 2021"
+    ],
+    "active_tutorials": 9,
+    "completed_tutorials": 5,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Bangkit Application Screening 2021": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Bangkit Application Screening 2021",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.441Z",
+  "updated_at": 1765460896441,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896441,
+    "last_updated": 1765460896441,
+    "skills_status": {},
+    "subskills": []
+  }
+}

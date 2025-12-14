@@ -1,0 +1,41 @@
+{
+  "user_id": "236693d7-745c-49ae-86f1-c58d4ffdfa05",
+  "platform_data": {
+    "name": "Hana Putri",
+    "email": "hana.putri198@example.com",
+    "active_courses": [
+      "Bangkit Machine Learning Assessment 2024 Batch 2"
+    ],
+    "active_tutorials": 6,
+    "completed_tutorials": 6,
+    "is_graduated": 0,
+    "exam_score": "66",
+    "submission_rating": "",
+    "course_progress": {
+      "Bangkit Machine Learning Assessment 2024 Batch 2": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Bangkit Machine Learning Assessment 2024 Batch 2",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.511Z",
+  "updated_at": 1765460896511,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896511,
+    "last_updated": 1765460896511,
+    "skills_status": {},
+    "subskills": []
+  }
+}

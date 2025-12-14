@@ -1,0 +1,41 @@
+{
+  "user_id": "6a31a1a5-ce2a-40bd-bb8a-90b9ccad8e59",
+  "platform_data": {
+    "name": "Rafi Pratama",
+    "email": "rafi.pratama209@example.com",
+    "active_courses": [
+      "Bangkit 2024 ILT Quiz - Cloud Computing"
+    ],
+    "active_tutorials": 7,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Bangkit 2024 ILT Quiz - Cloud Computing": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Bangkit 2024 ILT Quiz - Cloud Computing",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.521Z",
+  "updated_at": 1765460896521,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896521,
+    "last_updated": 1765460896521,
+    "skills_status": {},
+    "subskills": []
+  }
+}

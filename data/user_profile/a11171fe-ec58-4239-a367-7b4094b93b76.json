@@ -1,0 +1,41 @@
+{
+  "user_id": "a11171fe-ec58-4239-a367-7b4094b93b76",
+  "platform_data": {
+    "name": "Lestari Prasetyo",
+    "email": "lestari.prasetyo196@example.com",
+    "active_courses": [
+      "Belajar Pengembangan Aplikasi Android Intermediate"
+    ],
+    "active_tutorials": 115,
+    "completed_tutorials": 115,
+    "is_graduated": 1,
+    "exam_score": "100",
+    "submission_rating": "4",
+    "course_progress": {
+      "Belajar Pengembangan Aplikasi Android Intermediate": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Pengembangan Aplikasi Android Intermediate",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.509Z",
+  "updated_at": 1765460896509,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896509,
+    "last_updated": 1765460896509,
+    "skills_status": {},
+    "subskills": []
+  }
+}

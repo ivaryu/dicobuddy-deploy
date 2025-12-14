@@ -1,0 +1,41 @@
+{
+  "user_id": "afcde9bd-2cae-4265-a14d-3ba9d3d2bb4d",
+  "platform_data": {
+    "name": "Sari Halim",
+    "email": "sari.halim271@example.com",
+    "active_courses": [
+      "Belajar Penerapan Data Science dengan Microsoft Fabric"
+    ],
+    "active_tutorials": 55,
+    "completed_tutorials": 10,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Penerapan Data Science dengan Microsoft Fabric": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Penerapan Data Science dengan Microsoft Fabric",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.565Z",
+  "updated_at": 1765460896565,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896565,
+    "last_updated": 1765460896565,
+    "skills_status": {},
+    "subskills": []
+  }
+}

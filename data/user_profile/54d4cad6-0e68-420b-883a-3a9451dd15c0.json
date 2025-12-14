@@ -1,0 +1,41 @@
+{
+  "user_id": "54d4cad6-0e68-420b-883a-3a9451dd15c0",
+  "platform_data": {
+    "name": "Sari Kusuma",
+    "email": "sari.kusuma63@example.com",
+    "active_courses": [
+      "Belajar Android Jetpack Pro"
+    ],
+    "active_tutorials": 61,
+    "completed_tutorials": 59,
+    "is_graduated": 0,
+    "exam_score": "100",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Android Jetpack Pro": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Android Jetpack Pro",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.403Z",
+  "updated_at": 1765460896403,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896403,
+    "last_updated": 1765460896403,
+    "skills_status": {},
+    "subskills": []
+  }
+}

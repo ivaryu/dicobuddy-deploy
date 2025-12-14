@@ -1,0 +1,41 @@
+{
+  "user_id": "38149a49-520f-44f0-9d7b-1967c664466e",
+  "platform_data": {
+    "name": "Putu Wibowo",
+    "email": "putu.wibowo101@example.com",
+    "active_courses": [
+      "Belajar Pengembangan Web Intermediate"
+    ],
+    "active_tutorials": 129,
+    "completed_tutorials": 34,
+    "is_graduated": 1,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Pengembangan Web Intermediate": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Pengembangan Web Intermediate",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.437Z",
+  "updated_at": 1765460896437,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896437,
+    "last_updated": 1765460896437,
+    "skills_status": {},
+    "subskills": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "user_id": "7d28433d-d919-4531-87f6-69727989ecbe",
+  "platform_data": {
+    "name": "Oka Pratama",
+    "email": "oka.pratama58@example.com",
+    "active_courses": [
+      "Belajar Dasar Pemrograman Web"
+    ],
+    "active_tutorials": 131,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Dasar Pemrograman Web": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Dasar Pemrograman Web",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.398Z",
+  "updated_at": 1765460896398,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896398,
+    "last_updated": 1765460896398,
+    "skills_status": {},
+    "subskills": []
+  }
+}

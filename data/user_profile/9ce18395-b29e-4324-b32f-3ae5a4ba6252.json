@@ -1,0 +1,41 @@
+{
+  "user_id": "9ce18395-b29e-4324-b32f-3ae5a4ba6252",
+  "platform_data": {
+    "name": "Bima Santoso",
+    "email": "bima.santoso265@example.com",
+    "active_courses": [
+      "Financial Literacy 101"
+    ],
+    "active_tutorials": 11,
+    "completed_tutorials": 0,
+    "is_graduated": 0,
+    "exam_score": "",
+    "submission_rating": "",
+    "course_progress": {
+      "Financial Literacy 101": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Financial Literacy 101",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.561Z",
+  "updated_at": 1765460896561,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896561,
+    "last_updated": 1765460896561,
+    "skills_status": {},
+    "subskills": []
+  }
+}

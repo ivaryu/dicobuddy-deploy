@@ -1,0 +1,41 @@
+{
+  "user_id": "0601a34e-deb8-46ab-a8ba-57a84528a212",
+  "platform_data": {
+    "name": "Rafi Hartono",
+    "email": "rafi.hartono201@example.com",
+    "active_courses": [
+      "Belajar Dasar-Dasar DevOps"
+    ],
+    "active_tutorials": 38,
+    "completed_tutorials": 76,
+    "is_graduated": 1,
+    "exam_score": "100",
+    "submission_rating": "",
+    "course_progress": {
+      "Belajar Dasar-Dasar DevOps": 0
+    }
+  },
+  "learning_profile": {
+    "goals": [],
+    "skills": {},
+    "weaknesses": [],
+    "strengths": [],
+    "current_focus": {
+      "course": "Belajar Dasar-Dasar DevOps",
+      "module": 0
+    },
+    "learning_style": null,
+    "progress_score": {},
+    "history": []
+  },
+  "created_at": "2025-12-11T13:48:16.513Z",
+  "updated_at": 1765460896513,
+  "progress_history": [],
+  "roadmap_progress": {
+    "job_role": null,
+    "created_at": 1765460896513,
+    "last_updated": 1765460896513,
+    "skills_status": {},
+    "subskills": []
+  }
+}
