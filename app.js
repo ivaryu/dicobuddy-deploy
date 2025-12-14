@@ -24,8 +24,8 @@ const app = express();
 //    ENVIRONMENT CONFIG
 // =========================
 const isDev = process.env.NODE_ENV !== "production";
-const BACKEND_URL = process.env.BACKEND_URL || "http://localhost:5000";
-const FRONTEND_URL = process.env.FRONTEND_URL || "http://localhost:5500";
+const BACKEND_URL = process.env.BACKEND_URL || "https://dicobuddy-deploy-production.up.railway.app";
+const FRONTEND_URL = process.env.FRONTEND_URL || "https://relaxed-peony-867186.netlify.app";
 
 // =========================
 //          CORS
@@ -38,7 +38,7 @@ const allowedOrigins = isDev
       "http://localhost:5000",
     ]
   : [
-      "https://relaxed-peony-867186.netlify.app/",  // ✅ TANPA trailing slash
+      "https://relaxed-peony-867186.netlify.app",  // ✅ TANPA trailing slash
       "https://dicobuddy-deploy-production.up.railway.app"
     ];
 
